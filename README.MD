@@ -10,7 +10,7 @@ Este trabalho representa um marco inicial nos estudos para o meu TCC em Ciência
 
 O dataset utilizado foi o **"EEG Brainwave Dataset: Feeling Emotions"**, disponível publicamente na plataforma Kaggle.
 
-- **Link para o Dataset:** [https://www.kaggle.com/datasets/shashwatwork/eeg-brainwave-dataset-feeling-emotions](https://www.kaggle.com/datasets/shashwatwork/eeg-brainwave-dataset-feeling-emotions)
+- **Link para o Dataset:** [https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions)
 - **Importante:** Este dataset já contém características extraídas do sinal de EEG nos domínios do tempo e da frequência, permitindo focar diretamente na etapa de modelagem.
 
 ---
