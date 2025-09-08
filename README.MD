@@ -34,7 +34,7 @@ O modelo treinado alcançou uma acurácia de **98.83%** no conjunto de teste, de
 
 ### Como Executar
 
-1. Clone este repositório: `git clone [URL_DO_SEU_REPO]`
+1. Clone este repositório: `git clone https://github.com/gabfarmarcondes/EEG-MachineLearning-Kaggle`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Baixe o dataset do link do Kaggle acima e coloque o arquivo `emotions.csv` na mesma pasta do script.
 4. Execute o script Python: `python analise_emocoes.py`
